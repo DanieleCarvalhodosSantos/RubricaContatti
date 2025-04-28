@@ -23,7 +23,7 @@ Funzionalità:
 Tecnologie utilizzate:
 -----------------------
 - Linguaggio: C#
-- Piattaforma: .NET 6/7/8
+- Piattaforma: .NET 8
 - IDE: Visual Studio 2022 Community Edition
 
 Come avviare il progetto:
